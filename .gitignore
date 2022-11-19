@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+tmp.py
+streamlit_app_cheatsheet.py
+Fourier_transforms_pure_sine.ipynb
