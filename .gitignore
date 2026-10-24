@@ -130,3 +130,4 @@ dmypy.json
 tmp.py
 streamlit_app_cheatsheet.py
 Fourier_transforms_pure_sine.ipynb
+uv.lock
